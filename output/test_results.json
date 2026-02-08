@@ -1,0 +1,38 @@
+{
+  "video_id": "7597795827700487787",
+  "url": "https://www.douyin.com/user/MS4wLjABAAAAP4BoVo5c_VqnejG2sPEmZJPL3wOm7sIaa2ZmIKH2D9A?from_tab_name=main&modal_id=7597795827700487787",
+  "total_comments": 5,
+  "comments": [
+    {
+      "comment_id": "1",
+      "text": "这个视频太棒了！学到了很多",
+      "likes": 128,
+      "created_at": "2026-02-08T16:58:47.265036"
+    },
+    {
+      "comment_id": "2",
+      "text": "博主讲得很清楚，点赞！",
+      "likes": 89,
+      "created_at": "2026-02-08T16:58:47.265043"
+    },
+    {
+      "comment_id": "3",
+      "text": "建议下次可以讲得更深入一点",
+      "likes": 45,
+      "created_at": "2026-02-08T16:58:47.265043"
+    },
+    {
+      "comment_id": "4",
+      "text": "请问有字幕吗？",
+      "likes": 23,
+      "created_at": "2026-02-08T16:58:47.265044"
+    },
+    {
+      "comment_id": "5",
+      "text": "内容很有价值，已分享",
+      "likes": 67,
+      "created_at": "2026-02-08T16:58:47.265044"
+    }
+  ],
+  "status": "test_mode"
+}
